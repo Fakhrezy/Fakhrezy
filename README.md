@@ -1,5 +1,8 @@
 <!-- Banner -->
-[![MasterHead](https://media.tenor.com/3bTxZ4HdrysAAAAd/pixels-neon.gif)]()
+<div align="center">
+  [![MasterHead](https://media.tenor.com/3bTxZ4HdrysAAAAd/pixels-neon.gif)]()
+</div>
+
 
 <!-- Stats -->
 <div align="center">
