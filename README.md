@@ -9,8 +9,10 @@
 <!-- Stats -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=fakhrezy&theme=aura&hide_border=true&include_all_commits=true&count_private=true" width="55%" />
+     <img align="right" alt="Coding" width="400" src="https://media.tenor.com/3bTxZ4HdrysAAAAd/pixels-neon.gif">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=fakhrezy&theme=aura&hide_border=true" width="50%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fakhrezy&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="36%" /> </br>
+   
 </div>
 
 
@@ -40,9 +42,9 @@
 
 
 <!-- Tools -->
-<div align="left">
-<h2 align="left"></h2>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/3bTxZ4HdrysAAAAd/pixels-neon.gif">
+<div align="center">
+<h2 align="center"></h2>
+<!-- <img align="right" alt="Coding" width="400" src="https://media.tenor.com/3bTxZ4HdrysAAAAd/pixels-neon.gif"> -->
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="bootstrap" width="40" height="40"/> </a>
