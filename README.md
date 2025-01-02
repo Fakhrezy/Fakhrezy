@@ -7,7 +7,7 @@
 
 
 <!-- Stats -->
-<div align="left">
+<div align="center">
   
   <img src="https://github-readme-stats.vercel.app/api?username=fakhrezy&theme=aura&hide_border=true&include_all_commits=true&count_private=true" width="50%"/>
   <img alt="Coding" width="380" src="https://media.tenor.com/3bTxZ4HdrysAAAAd/pixels-neon.gif">
